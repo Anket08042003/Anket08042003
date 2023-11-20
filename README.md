@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anket and I'm a Engineering Student from VESIT</p>
+<h4 align="left">My name is Anket and I'm a Engineering Student from VESIT</h4>
 
 ###
 
